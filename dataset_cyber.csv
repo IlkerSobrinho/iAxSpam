@@ -1,0 +1,64 @@
+
+text,label
+"ASSUNTO: Atualização urgente da sua conta Banco do Brasil | CORPO: Detectamos um acesso suspeito. Atualize seus dados imediatamente para evitar bloqueio. Clique no link e confirme seu login.",Phishing
+"ASSUNTO: Caixa Econômica - Problema no seu Pix | CORPO: Seu Pix foi retido por inconsistência. Regularize agora informando seus dados cadastrais no link seguro.",Phishing
+"ASSUNTO: Nubank aviso importante | CORPO: Sua conta será suspensa em 24h. Confirme suas informações para continuar usando o serviço.",Phishing
+"ASSUNTO: Itaú segurança | CORPO: Atividade incomum detectada. Faça login imediatamente para proteger sua conta.",Phishing
+"ASSUNTO: Bradesco alerta de fraude | CORPO: Identificamos tentativa de acesso. Clique aqui e redefina sua senha agora.",Phishing
+"ASSUNTO: PagSeguro bloqueio de conta | CORPO: Sua conta será bloqueada por suspeita de fraude. Atualize seus dados.",Phishing
+"ASSUNTO: Mercado Livre ação urgente | CORPO: Seu cadastro apresenta irregularidade. Confirme suas informações.",Phishing
+"ASSUNTO: RecargaPay | CORPO: Houve erro em seu pagamento. Acesse o link e informe seus dados.",Phishing
+"ASSUNTO: Portal do Aluno atualização | CORPO: Sua matrícula será cancelada se não atualizar seus dados.",Phishing
+"ASSUNTO: Amazon Brasil segurança | CORPO: Detectamos problema no pagamento. Atualize imediatamente.",Phishing
+"ASSUNTO: Serasa pendência | CORPO: Existe dívida em seu nome. Regularize agora clicando no link.",Phishing
+"ASSUNTO: iFood conta bloqueada | CORPO: Identificamos irregularidade. Acesse o link para validar.",Phishing
+"ASSUNTO: Americanas pagamento recusado | CORPO: Confirme seus dados para concluir compra.",Phishing
+"ASSUNTO: Aviso Receita Federal | CORPO: Irregularidade no CPF. Regularize urgentemente.",Phishing
+"ASSUNTO: PayPal Brasil | CORPO: Transação suspeita detectada. Verifique agora.",Phishing
+"ASSUNTO: Correios encomenda retida | CORPO: Seu pacote está bloqueado. Pague taxa para liberar.",Phishing
+"ASSUNTO: Spotify conta suspensa | CORPO: Atualize seus dados de pagamento.",Phishing
+"ASSUNTO: Netflix problema de cobrança | CORPO: Confirme seus dados para evitar cancelamento.",Phishing
+"ASSUNTO: Shopee segurança | CORPO: Clique e valide seu cadastro.",Phishing
+"ASSUNTO: Alerta final banco digital | CORPO: Sua conta será encerrada hoje se não atualizar.",Phishing
+
+"ASSUNTO: Promoção incrível! | CORPO: Ganhe até 90% de desconto em produtos exclusivos. Aproveite agora!",Spam
+"ASSUNTO: Você ganhou! | CORPO: Parabéns! Resgate seu prêmio clicando aqui agora.",Spam
+"ASSUNTO: Dinheiro fácil online | CORPO: Trabalhe em casa e ganhe R$500 por dia.",Spam
+"ASSUNTO: Oferta imperdível | CORPO: Produtos baratos só hoje!",Spam
+"ASSUNTO: Empréstimo aprovado | CORPO: Crédito liberado sem consulta. Solicite já!",Spam
+"ASSUNTO: Mega promoção | CORPO: Descontos incríveis só hoje!",Spam
+"ASSUNTO: Ganhe dinheiro | CORPO: Método secreto para enriquecer rápido.",Spam
+"ASSUNTO: Black Friday antecipada | CORPO: Aproveite descontos exclusivos.",Spam
+"ASSUNTO: Compre 1 leve 3 | CORPO: Oferta limitada em produtos selecionados.",Spam
+"ASSUNTO: Curso online grátis | CORPO: Inscreva-se agora e comece hoje.",Spam
+"ASSUNTO: Prêmio liberado | CORPO: Você foi escolhido para receber um bônus.",Spam
+"ASSUNTO: Oferta VIP | CORPO: Promoção exclusiva para você.",Spam
+"ASSUNTO: Desconto especial | CORPO: Aproveite antes que acabe.",Spam
+"ASSUNTO: Cupom grátis | CORPO: Use agora e economize.",Spam
+"ASSUNTO: Renda extra | CORPO: Descubra como faturar em casa.",Spam
+"ASSUNTO: Sorteio ativo | CORPO: Participe e ganhe prêmios.",Spam
+"ASSUNTO: Oferta relâmpago | CORPO: Últimas unidades disponíveis.",Spam
+"ASSUNTO: Cashback gigante | CORPO: Ganhe dinheiro comprando.",Spam
+"ASSUNTO: Cartão aprovado | CORPO: Sem burocracia.",Spam
+"ASSUNTO: Oferta exclusiva | CORPO: Não perca essa oportunidade.",Spam
+
+"ASSUNTO: Reunião amanhã | CORPO: Olá, lembrando da reunião às 10h via Teams.",Legitimo
+"ASSUNTO: Confirmação de compra Amazon | CORPO: Seu pedido foi confirmado com sucesso.",Legitimo
+"ASSUNTO: Aviso Portal do Aluno | CORPO: Nova atividade disponível no portal.",Legitimo
+"ASSUNTO: Convite reunião projeto | CORPO: Favor confirmar presença.",Legitimo
+"ASSUNTO: Recibo de pagamento | CORPO: Segue comprovante do Pix realizado.",Legitimo
+"ASSUNTO: Atualização Ulife | CORPO: Conteúdo acadêmico atualizado.",Legitimo
+"ASSUNTO: Nota fiscal eletrônica | CORPO: Segue anexo o documento.",Legitimo
+"ASSUNTO: Confirmação hotel | CORPO: Sua reserva foi confirmada.",Legitimo
+"ASSUNTO: Entrega Correios | CORPO: Seu pedido saiu para entrega.",Legitimo
+"ASSUNTO: Fatura cartão Itaú | CORPO: Sua fatura já está disponível.",Legitimo
+"ASSUNTO: Agenda atualizada | CORPO: Veja compromissos da semana.",Legitimo
+"ASSUNTO: Aula cancelada | CORPO: Professor informou cancelamento.",Legitimo
+"ASSUNTO: Convite evento | CORPO: Você está convidado para evento.",Legitimo
+"ASSUNTO: Relatório mensal | CORPO: Segue relatório solicitado.",Legitimo
+"ASSUNTO: Atualização sistema | CORPO: Sistema ficará indisponível à noite.",Legitimo
+"ASSUNTO: Confirmação pagamento | CORPO: Recebemos seu pagamento via Pix.",Legitimo
+"ASSUNTO: Pedido enviado | CORPO: Produto em transporte.",Legitimo
+"ASSUNTO: Feedback solicitado | CORPO: Avalie nosso serviço.",Legitimo
+"ASSUNTO: Lembrete consulta | CORPO: Sua consulta é amanhã.",Legitimo
+"ASSUNTO: Renovação assinatura | CORPO: Assinatura renovada com sucesso.",Legitimo
