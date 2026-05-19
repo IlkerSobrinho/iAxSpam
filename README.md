@@ -1,10 +1,12 @@
-1. Resumo do Projeto
+Resumo do Projeto
 
 O CyberShield Auditor é uma ferramenta de segurança inteligente projetada para auditar comunicações digitais (e-mails) e classificar ameaças em tempo real. Diferente de filtros comuns, o sistema utiliza uma abordagem híbrida que combina Processamento de Linguagem Natural (NLP) com heurísticas de segurança para identificar Phishing, Spam e e-mails Legítimos, fornecendo uma explicação clara dos vetores de ataque detectados.
-2. Problema e Motivação
+
+Problema e Motivação
 
 Com o aumento de 40% nos ataques de engenharia social em 2025, os usuários enfrentam dificuldades em diferenciar e-mails transacionais reais de tentativas de roubo de credenciais. O projeto visa reduzir a carga cognitiva do usuário, automatizando a auditoria de mensagens suspeitas através de modelos de Machine Learning.
-3. Metodologia e Tecnologias
+
+Metodologia e Tecnologias
 
 Para garantir a robustez e transparência da ferramenta, foram utilizadas as seguintes tecnologias:
 
@@ -18,8 +20,8 @@ Para garantir a robustez e transparência da ferramenta, foram utilizadas as seg
 
     Interface: Framework Gradio para uma experiência de usuário (UX) focada em auditoria rápida.
 
-4. Desenvolvimento Técnico
-4.1 O Dataset
+Desenvolvimento Técnico
+O Dataset
 
 O modelo foi treinado com um banco de dados curado de aproximadamente 350 amostras, composto por:
 
@@ -27,7 +29,7 @@ O modelo foi treinado com um banco de dados curado de aproximadamente 350 amostr
 
     Dados Sintéticos: Expansão da base para incluir variações de ataques de Spear Phishing e marketing agressivo internacional.
 
-4.2 Explicabilidade (XAI)
+Explicabilidade (XAI)
 
 Um diferencial do CyberShield é a Auditoria de Vetores de Ataque. O sistema não fornece apenas um veredito, mas isola os termos que causaram a classificação, como:
 
@@ -37,9 +39,10 @@ Um diferencial do CyberShield é a Auditoria de Vetores de Ataque. O sistema nã
 
     Vetor de Redirecionamento: Detecção de URLs externas que podem ocultar destinos maliciosos.
 
-5. Resultados Preliminares
+Resultados Preliminares
 
 Atualmente, o modelo apresenta estabilidade estatística em e-mails complexos, como notificações de segundo fator de autenticação (2FA) e alertas de novos acessos (ex: Netflix, Instagram), reduzindo a taxa de falsos positivos através do balanceamento de pesos entre as classes.
-6. Conclusão e Próximos Passos
+
+Conclusão e Próximos Passos
 
 O rascunho valida a viabilidade técnica da solução. A etapa final consistirá na ampliação do dataset para 500+ amostras e no ajuste fino dos limites de confiança (thresholds) para garantir que comunicações críticas não sejam erroneamente bloqueadas.
